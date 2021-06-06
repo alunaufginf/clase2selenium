@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="SuiteVisorWeb">
+
+  <test name="TestCategoria" enabled="false">
+    <classes>
+      <class name="pe.visorweb.categoria.CategoriaTest" />
+    </classes>
+  </test>
+  
+  <test name="TestCategoriaPom">
+    <classes>
+      <class name="pe.visorweb.categoria.CategoriaPomTest" />
+    </classes>
+  </test>
+  
+</suite>
